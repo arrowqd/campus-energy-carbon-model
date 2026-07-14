@@ -1,0 +1,5 @@
+﻿scheme,annual_energy_saving_kwh,annual_shifted_energy_kwh,annual_cost_saving_cny,annual_emission_reduction_tco2e,investment_cny,simple_payback_years,ten_year_net_benefit_cny
+LED照明替换,34560.0,0.0,27648.0,19.699199999999998,30000,1.0850694444444444,246480.0
+空调温度管理,4536.0,0.0,3628.8,2.58552,5000,1.3778659611992945,31288.0
+分时电价响应,0.0,10080.0,4536.0,0.0,8000,1.763668430335097,37360.0
+屋顶光伏接入,36432.0,0.0,29145.600000000002,20.766239999999996,120000,4.11725955204216,171456.0

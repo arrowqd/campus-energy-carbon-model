@@ -1,0 +1,32 @@
+{
+  "electricity_price_cny_per_kwh": 0.8,
+  "carbon_factor_kgco2e_per_kwh": 0.57,
+  "evaluation_years": 10,
+  "schemes": {
+    "led": {
+      "name": "LED照明替换",
+      "target": "照明设备",
+      "saving_rate": 0.4,
+      "investment_cny": 30000
+    },
+    "ac": {
+      "name": "空调温度管理",
+      "target": "空调设备",
+      "saving_rate": 0.1,
+      "investment_cny": 5000
+    },
+    "tou": {
+      "name": "分时电价响应",
+      "targets": ["插座设备", "公共设备"],
+      "shift_rate": 0.2,
+      "peak_price_cny_per_kwh": 1.0,
+      "valley_price_cny_per_kwh": 0.55,
+      "investment_cny": 8000
+    },
+    "pv": {
+      "name": "屋顶光伏接入",
+      "replacement_rate": 0.2,
+      "investment_cny": 120000
+    }
+  }
+}

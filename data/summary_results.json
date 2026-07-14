@@ -1,0 +1,17 @@
+{
+  "baseline": {
+    "annual_energy_kwh": 182160.0,
+    "annual_cost_cny": 145728.0,
+    "annual_emissions_tco2e": 103.8312
+  },
+  "portfolio": {
+    "annual_energy_saving_kwh": 67708.8,
+    "annual_shifted_energy_kwh": 8064.0,
+    "annual_cost_saving_cny": 57795.84,
+    "annual_emission_reduction_tco2e": 38.594015999999996,
+    "investment_cny": 163000,
+    "simple_payback_years": 2.8202721856798,
+    "ten_year_net_benefit_cny": 414958.3999999999,
+    "grid_reduction_rate": 0.371699604743083
+  }
+}
